@@ -1,4 +1,5 @@
 # semantic-release-gitee
+[![npm version](https://badge.fury.io/js/semantic-release-gitee.svg)](https://badge.fury.io/js/semantic-release-gitee)
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) 
 
